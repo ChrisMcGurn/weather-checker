@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/ChrisMcGurn/weather-checker/issues"
   },
-  "homepage": "https://github.com/ChrisMcGurn/weather-checker#readme"
+  "homepage": "https://github.com/ChrisMcGurn/weather-checker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
