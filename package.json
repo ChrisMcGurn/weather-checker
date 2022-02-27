@@ -1,0 +1,16 @@
+{
+  "name": "weather-checker",
+  "version": "1.0.0",
+  "description": "A simple app for checking the current weather conditions anywhere in the world.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "author": "Christopher P. McGurn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisMcGurn/weather-checker/issues"
+  },
+  "homepage": "https://github.com/ChrisMcGurn/weather-checker#readme"
+}
